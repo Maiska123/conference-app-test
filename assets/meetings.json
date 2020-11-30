@@ -1,0 +1,110 @@
+[
+
+    {
+        "Subject": "Erilaisuus etätöissä -webinaarit",
+        "Organizer": "Paavo Kaurismäki",
+        "StartTime":  "2020-06-27T08:00:00",
+        "EndTime":  "2020-06-27T09:00:00",
+        "Participants": [
+            {
+                "Name": "Miska Hannunkivi",
+                "Title": "Software Developer"
+            },
+            {
+                "Name": "Jussi V",
+                "Title": "CEO"
+            },
+            {
+                "Name": "Maka",
+                "Title": "Rooni"
+            }
+        ],
+        "Description": "Erilaisuus etätöissä haastaa sekä työyhteisöjä että esimiehiä. Koronavirus on aiheuttanut usealla työpaikalla tilanteen, jossa etätyöt ovat välttämättömiä. Nämä webinaarit on suunniteltu tueksi ja avuksi erilaisuuden ymmärtämiseen ja huomioimiseen etätöiden näkökulmasta. Webinaarit sopivat niin etätöitä tekeville kuin etätyötä johtaville ja ohjaaville. Olitpa jo kokenut konkari tai vasta-alkaja, opit varmasti uutta itsestäsi ja muista!"
+    },
+    {
+        "Subject": "Virtuaalivalmennukset tiimeille ja johtajille",
+        "Organizer": "Mervi Uusitalo",
+        "StartTime":  "2020-06-27T09:30:00",
+        "EndTime":  "2020-06-27T11:00:00",
+        "Participants": [
+            {
+                "Name": "Miska Hannunkivi",
+                "Title": "Software Developer"
+            },
+            {
+                "Name": "Jussi V",
+                "Title": "CEO"
+            },
+            {
+                "Name": "Miska Hannunkivi",
+                "Title": "Software Developer"
+            },
+            {
+                "Name": "Jussi V",
+                "Title": "CEO"
+            },
+            {
+                "Name": "Maka",
+                "Title": "Rooni"
+            },
+            {
+                "Name": "Maka",
+                "Title": "Rooni"
+            },
+            {
+              "Name": "Maka",
+              "Title": "Rooni"
+            },
+            {
+              "Name": "Maka",
+              "Title": "Rooni"
+            }
+        ],
+        "Description": "Virtuaalivalmennus tiimeille ja johtajille korvaa nyt henkilökohtaisen läsnäolon. Onneksi kokemus läsnäolosta on mahdollista saada myös etänä – menettämättä hyödystä tai innostavuudesta lainkaan! Vastaan omalta osaltani haasteelliseen tilanteeseen tarjoamalla lyhyempiä ja tiiviimpiä virtuaalivalmennuksia työyhteisöjen ja johtamisen tueksi. Työnohjaukset, coaching ja 1-2 hengen Insights Discovery -profiiliavaamiset toimivat verkossa normaaliin tapaan."
+    },
+    {
+        "Subject": "Avoimet webinaarit: muutos, etätyö, johtaminen ja stressinhallinta",
+        "Organizer": "Kalle Koivunen",
+        "StartTime":  "2020-06-27T12:30:00",
+        "EndTime":  "2020-06-27T13:09:00",
+        "Participants": [
+            {
+                "Name": "Miska Hannunkivi",
+                "Title": "Software Developer"
+            },
+            {
+                "Name": "Jussi V",
+                "Title": "CEO"
+            },
+            {
+                "Name": "Maka",
+                "Title": "Rooni"
+            }
+        ],
+        "Description": "Avoimet, ilmaiset webinaarit saivat loistavan vastaanoton! Täältä pääset ilmoittautumaan seuraaviin. Jokainen webinaari antaa sinulle konkreettisia työkaluja ja menetelmiä hyödynnettäväksi itsesi johtamisessa, muiden johtamisesssa, yhteistyössä sekä vuorovaikutuksessa. Etätyön yleistyttyä painotus on siinä, mutta opit sopivat erinomaisesti myös muihin työtilanteisiin. Linkkien takaa löydät tarkemmat kuvaukset webinaareista. Nähdään verkossa!"
+    },
+    {
+        "Subject": "Brainstormataan ideoita",
+        "Organizer": "Miska Hannunkivi",
+        "StartTime":  "2020-06-27T13:09:00",
+        "EndTime":  "2020-06-27T15:00:00",
+        "Participants": [
+            {
+                "Name": "Kaikki",
+                "Title": "Kynnelle kykenevät"
+            }
+        ],
+        "Description": "Noh, otsikossahan tuo jo näkyykin."
+    },
+    {
+        "Subject": "Kuinka käydä nukkumaan",
+        "Organizer": "Miska Hannunkivi",
+        "StartTime":  "2020-06-27T21:00:00",
+        "EndTime": "2020-06-27T23:59:00",
+        "Participants": null,
+        "Description": null
+    }
+
+
+
+]
